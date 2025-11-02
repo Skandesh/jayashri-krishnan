@@ -59,7 +59,7 @@ export function Hero() {
             transition={{ duration: 0.8, delay: 0.7, ease: easeInOutCubic }}
             className="max-w-2xl mx-auto text-xl mb-4 font-medium text-balance"
           >
-            Award-Winning Multi-Business Leader | CEO of D'Organica Garden Shoppee | MD of Jaishuk & Skanda Expertise LLP
+            Award-Winning Multi-Business Leader | CEO of D&rsquo;Organica Garden Shoppee | MD of Jaishuk &amp; Skanda Expertise LLP
           </motion.p>
           <motion.div
             initial={{ opacity: 0 }}

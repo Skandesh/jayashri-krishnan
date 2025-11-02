@@ -224,10 +224,10 @@ export const siteConfig = {
       ),
     },
     {
-      question: "What is D'Organica Garden Shoppee?",
+      question: "What is D’Organica Garden Shoppee?",
       answer: (
         <span>
-          D'Organica Garden Shoppee is an MSME registered company established in 2014, offering complete garden solutions including terrace garden setup, hydroponics, vertical gardens, plant sales, and organic gardening services. Our mission is "One Farmer at Every Home, One Entrepreneur at Every Home."
+          D’Organica Garden Shoppee is an MSME registered company established in 2014, offering complete garden solutions including terrace garden setup, hydroponics, vertical gardens, plant sales, and organic gardening services. Our mission is “One Farmer at Every Home, One Entrepreneur at Every Home.”
         </span>
       ),
     },
